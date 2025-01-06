@@ -1,5 +1,5 @@
 let boxes = document.querySelectorAll('.box');
-let resey = document.querySelector('.reset');
+let resey = document.querySelector('#btn');
 let turn = document.querySelector('.turn');
 
 let newgamebrn = document.querySelector('#newbttn');
