@@ -29,6 +29,8 @@ border-radius: 2px;
     align-items: center;
     cursor: pointer;
     border-radius: 2px;
+    background-color: rgb(132, 180, 222);
+    color:black;
 }
 #heading{
     color: #6c0c3c;
@@ -40,5 +42,25 @@ border-radius: 2px;
     padding: 10px 20px;
     font-size: 20px;
     border-radius: 2px;
-    margin-top: -20px;
+    margin-top:0px;
+}
+#msg{
+    background-color: #4e0c6c;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 40px;
+    border-radius: 2px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+#newbttn{
+    background-color: #1542a5;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.hide{
+    display: none;
 }
